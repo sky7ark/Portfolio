@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.intro-name{
+    color: blueviolet;
+}
+.h-w{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.h-w img{
+    width: 50%;
+}
